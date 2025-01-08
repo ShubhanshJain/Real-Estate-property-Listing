@@ -52,4 +52,11 @@ A Django-based backend system for managing property listings, user portfolios, a
   POST /api/properties/
 ```
 
+Screeshots - 
+#### GET
+<img width="848" alt="Screenshot 2025-01-08 at 9 19 37 AM" src="https://github.com/user-attachments/assets/44bb07c7-fa9f-4d7a-8e6e-47b07904aa7e" />
+
+#### POST
+<img width="851" alt="Screenshot 2025-01-08 at 9 16 27 AM" src="https://github.com/user-attachments/assets/307db463-81de-4de1-a058-ea4e03f316d1" />
+
 
